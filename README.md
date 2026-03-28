@@ -10,32 +10,23 @@
 
 ### 👨‍💻 About Me
 - 🎓 Systems Analysis and Development student (FATEC)
-- 💻 Focused on full stack development
-- 🚀 Passionate about technology and continuous learning
+- 💻 Focused on Full Stack Development
+- 🚀 Always improving and building new projects
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuizGQS&show_icons=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGQS&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGQS&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=LuizGQS&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🚀 Technologies & Tools
+### 🚀 Technologies
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,js,react,php,html,css,mysql,figma,git,github,vscode,visualstudio,windows" />
-
-</div>
-
----
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizGQS&bg_color=000000&color=4169E1&line=4169E1&point=4169E1&area=true&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,js,react,php,html,css,mysql,figma,git,github,vscode,visualstudio,windows" />
 </div>
 
 ---
@@ -50,8 +41,7 @@
 ---
 
 <div align="center">
-  <p><b>Visitors</b></p>  
-  <img src="https://profile-counter.glitch.me/LuizGQS/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=LuizGQS&color=4169E1&style=flat" />
 </div>
 
 ---
