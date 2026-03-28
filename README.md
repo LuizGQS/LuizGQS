@@ -17,13 +17,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizGQS&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=LuizGQS&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🚀 Technologies
+### 🚀 Technologies & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,cs,flutter,js,react,php,html,css,mysql,figma,git,github,vscode,visualstudio,windows" />
