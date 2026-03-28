@@ -3,15 +3,16 @@
 <h1 align="center">Luiz Guilherme</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+progress;Systems+Development+Student;Always+learning+new+technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+progress;Passionate+about+technology;Always+learning+and+building+🚀" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Systems Analysis and Development student (FATEC)
+- 🎓 Graduated in Systems Analysis and Development
 - 💻 Focused on Full Stack Development
-- 🚀 Always improving and building new projects
+- 🚀 Currently building projects and improving my skills
+- 🎯 Looking for my first opportunity in tech
 
 ---
 
